@@ -40,10 +40,10 @@ header {
   transition: all 0.4s ease-out;
 }
 .max-logo img {
-  width: 168px;
+  width: 278px;
 }
 .min-logo img {
-  width: 130.5px;
+  width: 230.5px;
 }
 .nav-bar a {  
   text-transform: uppercase;

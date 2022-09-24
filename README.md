@@ -6,7 +6,7 @@
 
 Website criado com a finalizada de apresentar a empresa TigoCode e seu portfólio para atração de possívéis clientes.
 
-[ 🔗 Clique aqui para acessar](https:/tigocode.com.br)
+[ 🔗 Clique aqui para acessar](https://tigocode.com.br)
 
 ## Tecnologias
 
